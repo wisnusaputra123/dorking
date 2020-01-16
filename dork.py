@@ -213,9 +213,9 @@ def cari(inurl , site , maxc):
 
 if __name__ == "__main__":
 	print ("      "+Y+" 
-	print (R+" |'+'|"+Y+" (0 0)
-	print (R+" (o o)"+Y+"   v
-	print (R+"  (_) "+Y+" \___/
+	print (R+" |'+'|"+Y+" (0 0) "
+	print (R+" (o o)"+Y+"   v.  "
+	print (R+"  (_) "+Y+" \___/ "
 	print (W+43*"-")
 
 	inurl = raw_input(B+"[?]"+G+" Inurl    "+W+": ")
