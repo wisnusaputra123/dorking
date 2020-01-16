@@ -1,11 +1,11 @@
 import urllib2 , cookielib , random , re , sys , socket , time , httplib , ssl
 
-       #########################################
-       # Author : Debby anggraini ( @ciku370 ) #
-       # Team   : Blackhole Security           #
-       # Date   : 2 - 5 - 2018                 #
-       # Github : https://github.com/ciku370   #
-       #########################################
+
+
+
+
+
+
 
 if sys.platform == "linux2" or sys.platform == "linux":
 	R = ("\033[31m")
@@ -212,10 +212,10 @@ def cari(inurl , site , maxc):
     return finallist
 
 if __name__ == "__main__":
-	print ("      "+Y+"  _____       ___           _   ")
-	print (R+" |'+'|"+Y+" |  |  |___  |    \ ___ ___| |_ ")
-	print (R+" (o o)"+Y+" |    -| . | |  |  | . |  _| '_|")
-	print (R+"  (_) "+Y+" |__|__|___| |____/|___|_| |_,_|"+W+" (c)")
+	print ("      "+Y+" 
+	print (R+" |'+'|"+Y+" (0 0)
+	print (R+" (o o)"+Y+"   v
+	print (R+"  (_) "+Y+" \___/
 	print (W+43*"-")
 
 	inurl = raw_input(B+"[?]"+G+" Inurl    "+W+": ")
